@@ -15,6 +15,9 @@ const datefns = require('date-fns');
 
 const ical = require('node-ical');
 
+
+const config = require('./config.json');
+
 client.on('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
@@ -23,7 +26,7 @@ client.on('message', msg => {
     if (msg.content === '!lectures nextweek') {
 
 
-        ical.fromURL('UH ical link from studynet', {}, function(err, data) {
+        ical.fromURL(config.ical_link, {}, function(err, data) {
 
             const now = new Date();
             const oneWeek = addDays(now, 7);
@@ -48,4 +51,4 @@ client.on('message', msg => {
     }
 });
 
-client.login('Token');
+client.login(config.token);
