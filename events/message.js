@@ -8,7 +8,7 @@ exports.init = function(client){
 
 exports.run = async function(message){
     if (message.author.bot) return;
-    if (message.channel.type === "dm") {
+    /*if (message.channel.type === "dm") {
         let noBotChannelEmbed = new Discord.RichEmbed()
             .setAuthor(`Something went wrong`)
             .setDescription(`Bot commands are restricted to the server`)
@@ -16,6 +16,7 @@ exports.run = async function(message){
 
         return message.channel.send(noBotChannelEmbed);
     }
+    */
 
     let prefix = config.prefix;
     if (message.content.startsWith(prefix)) {
