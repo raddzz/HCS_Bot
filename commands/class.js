@@ -9,10 +9,10 @@ const linkData = [
     "11am: https://herts.instructure.com/courses/81524/modules/items/1414495\n" +
     "2pm: https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjQyNjVkMDItMTY1OC00ZWEwLTk5MWQtOGRhN2M2ZTJkMGY1%40thread.v2/0?context=%7b%22Tid%22%3a%2293e6beba-c4aa-4731-af5d-d735b097eadb%22%2c%22Oid%22%3a%220e65d301-8d52-44d5-b211-9d62396d8265%22%7d\n",
 
+    "__Group 3 -- Thursday__\n\n" +
+    "2pm: https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTNiODczNDYtY2U1YS00NjY1LTk4NzYtNmU2YjhlZGQ4Mzcy%40thread.v2/0?context=%7b%22Tid%22%3a%2293e6beba-c4aa-4731-af5d-d735b097eadb%22%2c%22Oid%22%3a%22442c0db7-005f-4d7c-a581-85ba4566cbf9%22%7d\n"+
     "__Group 3 -- Friday__\n\n" +
-    "10am: https://herts-ac-uk.zoom.us/j/97724027308?pwd=YXZiVkNLVTNTVWpGU20wQlg1NXBnUT09\n" +
-    "1pm: https://herts.instructure.com/courses/81524/modules/items/1414488\n" +
-    "2pm: https://herts.instructure.com/courses/81524/modules/items/1403527\n",
+    "10am: https://herts-ac-uk.zoom.us/j/97724027308?pwd=YXZiVkNLVTNTVWpGU20wQlg1NXBnUT09\n",
 
     "__Group 4 -- Thursday__\n\n" +
     "10am: https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDViMzE1YjAtODJjNy00YzE2LThlNmQtN2VlZDhjYjc0YjQ4%40thread.v2/0?context=%7b%22Tid%22%3a%2293e6beba-c4aa-4731-af5d-d735b097eadb%22%2c%22Oid%22%3a%220e65d301-8d52-44d5-b211-9d62396d8265%22%7d\n" +
